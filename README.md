@@ -43,9 +43,12 @@ ChatGPT镜像是通过搭建一套与原ChatGPT官方网站功能相同的系统
 ## 我应该如何选择模型？
 ChatGPT对话有众多模型，应该选择哪个比较适合我
 ![ChatGPT各模型综合能力排名](https://github.com/user-attachments/assets/488674f8-2968-4256-b1b5-16e4199865a2)
+
 建议根据上图给的参考选择合适的模型，最强的模型是o1 preview，其次是GPT4o
+
 ![ChatGPT镜像站使用界面](https://github.com/user-attachments/assets/70d2a1b1-e3c8-4904-b7e1-2b657222fde9)
 
+ChatGPT镜像网站切换模型截图
 
 ## 常见问题解答（FAQ）
 
